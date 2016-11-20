@@ -78,7 +78,7 @@
     "short-id": "^0.1.0",
     "shortid": "^2.1",
     "socket.io": "^1.2",
-    "socket.io-client": "^1.2",
+    "socket.io-client": "^1.6.0",
     "splitargs": "^0.0",
     "sprintf-js": "^1.0",
     "strip-ansi": "^3.0.1",
