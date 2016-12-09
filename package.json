@@ -105,7 +105,7 @@
     "jsdom": "^9.8.3",
     "mocha": "^3.1.2",
     "mocha-jsdom": "^1.1.0",
-    "pre-commit": "^1.0.4",
+    "pre-commit": "^1.2.0",
     "proxyquire": "^1.0",
     "sinon": "^1.8",
     "standard": "^8.5.0",
