@@ -93,7 +93,7 @@
     "winston": "^2.3.0"
   },
   "optionalDependencies": {
-    "execSync": "^1.0",
+    "execSync": "^1.0.2",
     "mdns": "^2.0",
     "posix": "^4.0.0"
   },
