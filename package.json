@@ -52,7 +52,7 @@
     "duplex-maker": "^1.0.0",
     "etc-passwd": "^0.1",
     "event-loop-lag": "^1.0",
-    "extend": "^3.0.0",
+    "extend": "^3.0.1",
     "favicon-setter": "^0.1",
     "freeport": "^1.0",
     "getconfig": "^3.0.0",
