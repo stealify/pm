@@ -80,7 +80,7 @@
     "socket.io": "^1.2",
     "socket.io-client": "^1.2",
     "splitargs": "^0.0",
-    "sprintf-js": "^1.0",
+    "sprintf-js": "^1.1.1",
     "strip-ansi": "^3.0.1",
     "stylizer": "achingbrain/stylizer",
     "templatizer-hbs": "^0.0",
