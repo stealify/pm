@@ -31,7 +31,7 @@
     "ampersand-router": "^4.0.0",
     "ampersand-select-view": "^8.0.0",
     "ampersand-view": "^10.0.1",
-    "ampersand-view-switcher": "^2.0",
+    "ampersand-view-switcher": "^3.0.0",
     "andlog": "^1.0",
     "ansi-html": "^0.0",
     "async": "^2.1.2",
