@@ -98,7 +98,7 @@
     "posix": "^4.0.0"
   },
   "devDependencies": {
-    "chai": "^3.5.0",
+    "chai": "^4.1.1",
     "coveralls": "^2.8",
     "debug": "^2.1",
     "istanbul": "^0.4.5",
