@@ -70,7 +70,7 @@
     "node-inspector": "^0.12.3",
     "output-buffer": "^1.0",
     "pem": "^1.0",
-    "prettysize": "^0.0",
+    "prettysize": "^1.1.0",
     "prompt": "^1.0.0",
     "rc": "achingbrain/rc#guvnor",
     "rimraf": "^2.0",
