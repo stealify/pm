@@ -94,7 +94,7 @@
   },
   "optionalDependencies": {
     "execSync": "^1.0",
-    "mdns": "^2.0",
+    "mdns": "^2.3.4",
     "posix": "^4.0.0"
   },
   "devDependencies": {
