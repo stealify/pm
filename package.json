@@ -74,7 +74,7 @@
     "prompt": "^1.0.0",
     "rc": "achingbrain/rc#guvnor",
     "rimraf": "^2.0",
-    "semver": "^5.3.0",
+    "semver": "^5.5.0",
     "short-id": "^0.1.0",
     "shortid": "^2.1",
     "socket.io": "^1.2",
