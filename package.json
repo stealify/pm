@@ -32,7 +32,7 @@
     "ampersand-select-view": "^8.0.0",
     "ampersand-view": "^10.0.1",
     "ampersand-view-switcher": "^3.0.0",
-    "andlog": "^1.0",
+    "andlog": "^1.0.1",
     "ansi-html": "^0.0",
     "async": "^2.1.2",
     "bcrypt": "^0.8",
