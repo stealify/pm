@@ -65,7 +65,7 @@
     "jsonfile": "^2.0",
     "meminfo": "^0.0",
     "mkdirp": "^0.5",
-    "moment": "^2.0",
+    "moment": "^2.21.0",
     "moonboots_hapi": "^7.0.0",
     "node-inspector": "^0.12.3",
     "output-buffer": "^1.0",
