@@ -99,7 +99,7 @@
   },
   "devDependencies": {
     "chai": "^3.5.0",
-    "coveralls": "^3.0.0",
+    "coveralls": "^3.0.1",
     "debug": "^2.1",
     "istanbul": "^0.4.5",
     "jsdom": "^11.4.0",
