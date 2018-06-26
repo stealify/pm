@@ -87,7 +87,7 @@
     "timeoutify": "^1.0.0",
     "underscore": "^1.0",
     "usage": "^0.7.0",
-    "uuid": "^2.0",
+    "uuid": "^3.3.0",
     "wantsit": "^2.0",
     "wildemitter": "^1.0",
     "winston": "^2.3.0"
