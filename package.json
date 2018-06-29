@@ -43,7 +43,7 @@
     "coffee-script": "^1.9.0",
     "colors": "^1.0",
     "columbo": "^3.0",
-    "commander": "^2.0",
+    "commander": "^2.16.0",
     "component-emitter": "1.2.1",
     "copy-to": "^2.0",
     "cpu-stats": "^1.0",
