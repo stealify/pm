@@ -69,7 +69,7 @@
     "moonboots_hapi": "^7.0.0",
     "node-inspector": "^0.12.3",
     "output-buffer": "^1.0",
-    "pem": "^1.0",
+    "pem": "^1.12.8",
     "prettysize": "^0.0",
     "prompt": "^1.0.0",
     "rc": "achingbrain/rc#guvnor",
