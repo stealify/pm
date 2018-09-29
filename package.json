@@ -81,7 +81,7 @@
     "socket.io-client": "^1.2",
     "splitargs": "^0.0",
     "sprintf-js": "^1.0",
-    "strip-ansi": "^3.0.1",
+    "strip-ansi": "^5.0.0",
     "stylizer": "achingbrain/stylizer",
     "templatizer-hbs": "^0.0",
     "timeoutify": "^1.0.0",
